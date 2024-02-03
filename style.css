@@ -48,6 +48,12 @@ button{
     cursor: pointer;
 }
 .equalbtn{
-    background-color: #fb7c14;
+    background-color: #8014fb;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    color: rgba(255, 248, 220, 0.205);
+    text-shadow: 0px 3px 15px rgba(241, 237, 237, 0.9) ;
 }
 
